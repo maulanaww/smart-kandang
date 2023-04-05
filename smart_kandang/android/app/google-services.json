@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398904561623",
+    "project_id": "kandang-ayam-ae06e",
+    "storage_bucket": "kandang-ayam-ae06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398904561623:android:eef02ddfa37d40017bc592",
+        "android_client_info": {
+          "package_name": "com.example.smart_kandang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398904561623-fbglp86jb42r3ovqc4i0cpt6f7hhn2re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fp4ygMqIcd3I8nbVZwVVwcSVOm6SW1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398904561623-fbglp86jb42r3ovqc4i0cpt6f7hhn2re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
